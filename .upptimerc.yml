@@ -4,7 +4,7 @@ repo: taitopia-status-page # The name of this repository
 user-agent: taitopia-status-probe
 
 sites:
-  - name: Taitopia Frontend
+  - name: Taitopia Web Application
     url: https://app.taitopia.design
     method: GET
 
@@ -20,10 +20,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Taitopia Design
+    - title: About Us
       href: https://taitopia.design
-    - title: Taitopia Design Roadmap
-      href: https://roadmap.taitopia.design
+    - title: Join Discord
+      href: https://discord.gg/3GsJxnduK4
 
 workflowSchedule:
   graphs: "0 0 * * *"
