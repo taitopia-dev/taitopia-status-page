@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Taitopia Web Application",
+    "url": "https://app.taitopia.design",
+    "icon": "https://icons.duckduckgo.com/ip3/app.taitopia.design.ico",
+    "slug": "taitopia-web-application",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 610,
+    "timeDay": 610,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
+    "dailyMinutesDown": {}
+  }
+]
