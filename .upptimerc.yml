@@ -14,6 +14,7 @@ status-website:
   cname: status.taitopia.design
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.taitopia.design/taitopia.design/favicon/apple-touch-icon.png
+  favicon: https://cdn.taitopia.design/taitopia.design/favicon/apple-touch-icon.png
   name: Taitopia Status Page
   introTitle: "This is the status page of some of the **Taitopia Design** public-facing services"
   introMessage: Welcome to the status page of Taitopia, we are sorry if you run into incidents due to downtime of our services!
