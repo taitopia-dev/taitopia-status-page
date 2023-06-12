@@ -17,6 +17,7 @@ status-website:
   name: Taitopia Status Page
   introTitle: "This is the status page of some of the **Taitopia Design** public-facing services"
   introMessage: Welcome to the status page of Taitopia, we are sorry if you run into incidents due to downtime of our services!
+  theme: dark
   navbar:
     - title: Status
       href: /
