@@ -14,6 +14,24 @@ sites:
     __dangerous__body_down: '"status":"down"'
     __dangerous__body_degraded: '"status":"degraded"'
 
+  - name: Taitopia Asset Management Service
+    url: https://status-api.taitopia.design/health/tortilla
+    method: GET
+    __dangerous__body_down: '"status":"down"'
+    __dangerous__body_degraded: '"status":"degraded"'
+
+  - name: Taitopia User Management Service
+    url: https://status-api.taitopia.design/health/salsa
+    method: GET
+    __dangerous__body_down: '"status":"down"'
+    __dangerous__body_degraded: '"status":"degraded"'
+
+  - name: Taitopia Render Queue Status
+    url: https://status-api.taitopia.design/health/camote
+    method: GET
+    __dangerous__body_down: '"status":"down"'
+    __dangerous__body_degraded: '"status":"degraded"'
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
