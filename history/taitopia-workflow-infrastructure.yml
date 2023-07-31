@@ -1,7 +1,7 @@
 url: https://status-api.taitopia.design/health/workflow
-status: up
+status: degraded
 code: 200
-responseTime: 1392
-lastUpdated: 2023-07-30T23:10:42.951Z
+responseTime: 199
+lastUpdated: 2023-07-31T00:58:49.992Z
 startTime: Fri Jun 30 2023 05:04:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
