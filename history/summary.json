@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 750,
-    "timeWeek": 622,
-    "timeMonth": 420,
-    "timeYear": 424,
+    "time": 430,
+    "timeDay": 756,
+    "timeWeek": 704,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://status-api.taitopia.design/health/workflow",
     "icon": "https://icons.duckduckgo.com/ip3/status-api.taitopia.design.ico",
     "slug": "taitopia-workflow-infrastructure",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 1609,
-    "timeWeek": 1214,
-    "timeMonth": 890,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 884,
+    "timeDay": 796,
+    "timeWeek": 1125,
+    "timeMonth": 884,
+    "timeYear": 884,
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Taitopia Asset Management Service",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 77,
-    "timeWeek": 51,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "time": 39,
+    "timeDay": 73,
+    "timeWeek": 59,
+    "timeMonth": 39,
+    "timeYear": 39,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 77,
-    "timeWeek": 50,
-    "timeMonth": 36,
-    "timeYear": 36,
+    "time": 39,
+    "timeDay": 72,
+    "timeWeek": 59,
+    "timeMonth": 39,
+    "timeYear": 39,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 76,
-    "timeWeek": 50,
-    "timeMonth": 36,
-    "timeYear": 36,
+    "time": 38,
+    "timeDay": 72,
+    "timeWeek": 58,
+    "timeMonth": 38,
+    "timeYear": 38,
     "dailyMinutesDown": {}
   }
 ]
