@@ -96,19 +96,19 @@
     "url": "https://status-api.taitopia.design/health/taco",
     "icon": "https://icons.duckduckgo.com/ip3/status-api.taitopia.design.ico",
     "slug": "taitopia-cloud-rendering-service-status",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "75.49%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "98.93%",
     "time": 40,
-    "timeDay": 41,
+    "timeDay": 40,
     "timeWeek": 40,
     "timeMonth": 40,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-10-25": 0,
+      "2023-10-25": 353,
       "2023-09-14": 298
     }
   }
