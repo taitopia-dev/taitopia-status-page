@@ -1,7 +1,7 @@
 url: https://status-api.taitopia.design/health/taco
-status: down
-code: 503
-responseTime: 3
-lastUpdated: 2024-06-20T06:17:16.025Z
+status: up
+code: 200
+responseTime: 5
+lastUpdated: 2024-06-20T12:23:19.660Z
 startTime: 2023-09-13T10:09:27.306Z
 generator: Upptime <https://github.com/upptime/upptime>
