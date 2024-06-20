@@ -1,7 +1,7 @@
 url: https://status-api.taitopia.design/health/camote
-status: down
-code: 503
-responseTime: 3
-lastUpdated: 2024-06-20T06:17:14.303Z
+status: up
+code: 200
+responseTime: 6
+lastUpdated: 2024-06-20T12:23:17.818Z
 startTime: 2023-07-17T03:17:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
